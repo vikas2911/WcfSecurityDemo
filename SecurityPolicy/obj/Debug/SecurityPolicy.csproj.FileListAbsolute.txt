@@ -1,0 +1,5 @@
+D:\DotNet\WcfSecurity\SecurityPolicy\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet\WcfSecurity\SecurityPolicy\bin\Debug\SecurityPolicy.dll
+D:\DotNet\WcfSecurity\SecurityPolicy\bin\Debug\SecurityPolicy.pdb
+D:\DotNet\WcfSecurity\SecurityPolicy\obj\Debug\SecurityPolicy.dll
+D:\DotNet\WcfSecurity\SecurityPolicy\obj\Debug\SecurityPolicy.pdb

@@ -1,0 +1,8 @@
+D:\DotNet\WcfSecurity\SecureClient\bin\Debug\WcfSecurity.SecureClient.exe.config
+D:\DotNet\WcfSecurity\SecureClient\bin\Debug\WcfSecurity.SecureClient.exe
+D:\DotNet\WcfSecurity\SecureClient\bin\Debug\WcfSecurity.SecureClient.pdb
+D:\DotNet\WcfSecurity\SecureClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DotNet\WcfSecurity\SecureClient\obj\x86\Debug\WcfSecurity.SecureClient.exe
+D:\DotNet\WcfSecurity\SecureClient\obj\x86\Debug\WcfSecurity.SecureClient.pdb
+D:\DotNet\WcfSecurity\SecureClient\bin\Debug\SecurityPolicy.dll
+D:\DotNet\WcfSecurity\SecureClient\bin\Debug\SecurityPolicy.pdb

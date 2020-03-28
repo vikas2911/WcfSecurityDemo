@@ -1,0 +1,7 @@
+D:\DotNet\WcfSecurity\SecureService\bin\WcfSecurity.SecureService.dll
+D:\DotNet\WcfSecurity\SecureService\bin\WcfSecurity.SecureService.pdb
+D:\DotNet\WcfSecurity\SecureService\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet\WcfSecurity\SecureService\obj\Debug\WcfSecurity.SecureService.dll
+D:\DotNet\WcfSecurity\SecureService\obj\Debug\WcfSecurity.SecureService.pdb
+D:\DotNet\WcfSecurity\SecureService\bin\SecurityPolicy.dll
+D:\DotNet\WcfSecurity\SecureService\bin\SecurityPolicy.pdb

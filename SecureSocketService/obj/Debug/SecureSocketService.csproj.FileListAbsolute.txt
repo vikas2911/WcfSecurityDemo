@@ -1,0 +1,5 @@
+D:\DotNet\WcfSecurity\SecureSocketService\bin\WcfSecurity.SecureSocketService.dll
+D:\DotNet\WcfSecurity\SecureSocketService\bin\WcfSecurity.SecureSocketService.pdb
+D:\DotNet\WcfSecurity\SecureSocketService\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet\WcfSecurity\SecureSocketService\obj\Debug\WcfSecurity.SecureSocketService.dll
+D:\DotNet\WcfSecurity\SecureSocketService\obj\Debug\WcfSecurity.SecureSocketService.pdb
